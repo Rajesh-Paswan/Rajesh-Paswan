@@ -8,4 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajesh-Paswan" alt="Rajesh-Paswan" /> </p>
 <img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajesh-Paswan&show_icons=true&hide_border=true" />
+
+

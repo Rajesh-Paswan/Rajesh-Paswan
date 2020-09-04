@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 - 📫 How to reach me: **rk.paswan5458@gmail.com** 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajesh-Paswan" alt="Rajesh-Paswan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajesh-Paswan" alt="Rajesh-Paswan" /> </p>
 <img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajesh-Paswan&show_icons=true&hide_border=true" />
 
 

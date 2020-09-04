@@ -1,12 +1,12 @@
-# Portfolio Website
-## By [Hitik Saini](https://hitik20.tech/), [Mozilla Chandigarh](https://mozillachandigarh.tech/)
-A Resume-Portfolio template for anyone.
+### Hi,I'm Rajesh Paswan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 🔭 I’m currently working on **Some projects using Python**
+- 🌱 I’m currently learning **Flutter and Machine Learning**
+- 📫 How to reach me: **rk.paswan5458@gmail.com**
+- ⚡ Fun fact: ... **I have recieved the award "The procrastinator of the century" from me.**
 
-## How to ?
-<li>Fork the current Repository </li>
-<li>Clone the repository </li>
-<li>Now have the code in your local PC, make changes in it like your name. </li>
-<li>After you're done commit your changes </li>
-<li>Push the changes in the forked Repository </li>
 
-## See you in the event for a live demonstration.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajesh-Paswan" alt="Rajesh-Paswan" /> </p>
+<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajesh-Paswan&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-Paswan)](https://github.com/Rajesh.Paswan/github-readme-stats)
+

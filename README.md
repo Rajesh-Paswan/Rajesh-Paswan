@@ -1,6 +1,6 @@
 
 
-### Hi,I'm [ Rajesh Paswan!](https://github.com/Rajesh-Paswan)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi,I'm [ Rajesh Paswan!](https://www.linkedin.com/in/rajeshpaswan)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🔭 I’m currently working on **Some cool projects using Python**
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 - 📫 How to reach me: **rk.paswan5458@gmail.com** 

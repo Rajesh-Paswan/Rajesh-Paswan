@@ -13,5 +13,7 @@
   <img  align='center' width="200" src="https://github.com/Rajesh-Paswan/Rajesh-Paswan/blob/master/octocat.png">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-Paswan)](https://github.com/Rajesh-Paswan/github-readme-stats)
+<a href="https://github.com/Rajesh-Paswan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-Paswan&theme=dark&hide_langs_below=1" />
+</a>
 

@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on **Some projects using Python**
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 - 📫 How to reach me: **rk.paswan5458@gmail.com**
-- ⚡ Fun fact: ... **I have recieved the award "The procrastinator of the century" from me.**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajesh-Paswan" alt="Rajesh-Paswan" /> </p>
